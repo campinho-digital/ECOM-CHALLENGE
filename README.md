@@ -12,7 +12,7 @@
 
 #### O time de Design da TechTreasures deixou disponivel o layout para a criação do MVC 
 
-
+<img width="457" alt="Captura de Tela 2023-10-13 às 19 09 17" src="https://github.com/campinho-digital/ECOM-CHALLENGE/assets/108235987/d2a081b0-ebee-4f0b-b374-43b69f33ac20">
 <img width="419" alt="Captura de Tela 2023-10-13 às 19 02 05" src="https://github.com/campinho-digital/ECOM-CHALLENGE/assets/108235987/57d397dd-7b3a-4609-9d3f-6b2eea596d0d">
 <img width="422" alt="Captura de Tela 2023-10-13 às 19 03 29" src="https://github.com/campinho-digital/ECOM-CHALLENGE/assets/108235987/c6836f41-62df-4d53-a1b7-c01fad1e50d3">
 
