@@ -50,7 +50,7 @@ Para criar um novo usuario:
 Para garantir troca segura de informações entre partes em um formato que pode ser verificado e confiável o registro gerará um token JWT :
 - JWT (JSON Web Token) é um padrão aberto (RFC 7519) que define uma maneira compacta e autocontida de representar informações entre duas partes de uma forma que pode ser verificada e validada.
 
-####  Atenção: para acessar os demais endpoints como os produtos será preciso sempre estar autenticado.
+####  Atenção: para acessar os demais endpoints como o `/products` será preciso sempre estar autenticado.
 
 
 ### Para acessar os produtos
