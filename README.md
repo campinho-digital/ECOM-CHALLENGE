@@ -30,6 +30,17 @@
 #### Será um diferencial:
 - Implementar o carrinho para que o cliente possa adicionar produtos que ele dejesa
 
+
+#### Categorias:
+O time de negócio definiu as seguintes categorias, ou seja os produtos adicionados precisam fazer parte de uma delas:
+- Casa Inteligente
+- Eletrônico
+- Esportes
+- Gadgets de Viagem
+- Saúde e Bem-Estar
+- Tecnologia para o Trabalho Remoto
+- Áudio e entretenimeto
+
 #### A API da TechTreasures ja foi desenvolvida e conta com a seguinte documentação: 
 
 
